@@ -67,5 +67,24 @@ button{
 .bott{
     padding: 0px 10px 22px 10px;
 }
-
-
+#nav2{
+    height: 0px;
+    background-color: white;
+    padding: 19.29px 40px 19.29px 40px;
+    text-align: center;
+}
+#train{
+    text-align: left;
+    padding-left: 50px;
+}
+.nav2{
+    margin-top: 25px;
+    padding: 13px 15px 11px 15px;
+    text-align: center;
+    
+}
+#get{
+    height: 42.39px;
+    background-color: #0972d3;
+    
+}
